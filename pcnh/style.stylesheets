@@ -1,0 +1,255 @@
+body {
+  color: #222;
+}
+
+a, a:visited, a:link {
+  color: blue;
+}
+
+.intro {
+  color: darkred;
+  background: #fff url(images/social.jpg) center center no-repeat;
+}
+
+.whoami {
+  color: darkred;
+  background: #fff url(images/shin.jpg) 90% bottom no-repeat;
+}
+
+.whoami h2, .whoami h3, .whoami h4 {
+  color: #666;
+}
+
+.whoami div {
+  padding-right: 400px;
+}
+
+.legos {
+  background: yellow url(images/legos.jpg) center center no-repeat;
+  color: #000
+}
+
+.legos h1, .legos h2, .legos h3, .legos h4 {
+  background: yellow;
+  color: #000;
+}
+
+.whycare {
+  background: #000 url(images/audience.jpg) center center no-repeat;
+}
+
+.whycare h1, .whycare h2, .whycare h3, .whycare h4 {
+  background: #000;
+  color: #fff;
+}
+
+.community {
+  color: #fff;
+  background: #000 url(images/community.jpg) 250% center no-repeat;
+}
+
+.viral {
+  color: #000;
+  background: #fff url(images/pig.jpg) right center no-repeat;
+}
+
+.viral h1 {
+  color: darkred;
+}
+
+.barriers {
+  color: #fff;
+  background: #000 url(images/egg.jpg) right center no-repeat;
+}
+
+.value {
+  color: #fff;
+  background: #000 url(images/value.jpg) center center no-repeat;
+}
+
+.value h1, .value h2, .value h3, .value h4 {
+  background: #000;
+  color: #ccffcc;
+}
+
+.easy {
+  color: #000;
+  background: #fff url(images/easy.jpg) right bottom no-repeat;
+}
+
+.easy h1, .easy h2 {
+  color: darkred;
+}
+
+.proof {
+  color: yellow;
+  background: #000;
+}
+
+.fast {
+  color: #fff;
+  background: #000 url(images/fast.jpg) bottom right no-repeat;
+}
+
+.messaging {
+  color: #000;
+  background: #fff url(images/mail.jpg) bottom right no-repeat;
+}
+
+.filter {
+  color: #000;
+  background: #fff url(images/filter.jpg) center center no-repeat;
+}
+
+.filter h1, .filter h2, .filter h3, .filter h4 {
+  background: #000;
+  color: #ffcccc;
+}
+
+.overheardit {
+  color: #fff;
+  background: #000 url(images/overheardit.jpg) center center no-repeat;
+}
+
+.quickbooks {
+  color: #fff;
+  background: #000 url(images/quickbooks.jpg) center center no-repeat;
+}
+
+.tweetdreams {
+  color: #fff;
+  background: #000 url(images/tweetdreams.jpg) center center no-repeat;
+}
+
+.twistori {
+  color: #fff;
+  background: #000 url(images/twistori.jpg) center center no-repeat;
+}
+
+.failwhale {
+  color: #fff;
+  background: #59C7C6 url(images/failwhale.png) 400px 50px no-repeat;
+}
+
+.tweetmeme {
+  color: #fff;
+  background: #000 url(images/tweetmeme.jpg) center center no-repeat;
+}
+
+.friendorfollow {
+  color: #fff;
+  background: #000 url(images/friendorfollow.jpg) center center no-repeat;
+}
+
+.stocktwits {
+  color: #fff;
+  background: #000 url(images/stocktwits.jpg) center center no-repeat;
+}
+
+.buildsomething {
+  color: yellow;
+  background: #000;
+}
+
+.twitterapi {
+  color: #000;
+  background: #fff url(images/twitter_logo.png) right center no-repeat;
+}
+
+.demo {
+  color: yellow;
+  background: #000;
+}
+
+.streaming {
+  color: #ccccff;
+  background: #000 url(images/waterfall.jpg) right center no-repeat;
+}
+
+.streamapi {
+  color: #ccccff;
+  background: #000 url(images/firehose.jpg) right center no-repeat;
+}
+
+.responder {
+  color: #000;
+  background: #fff url(images/robot.jpg) right center no-repeat;
+}
+
+.annoying {
+  color: #000;
+  background: #fff url(images/slapchop.jpg) right center no-repeat;
+}
+
+.annoying h1 {
+  color: darkred;
+}
+
+.robotuses {
+  color: #ccccff;
+  background: #000 url(images/robotmail.jpg) right center no-repeat;
+}
+
+.trivia {
+  color: #fff;
+  background: #000 url(images/trivia.jpg) center center no-repeat;
+}
+
+.foamee {
+  color: #fff;
+  background: #000 url(images/foamee.jpg) center center no-repeat;
+}
+
+.signin {
+  color: #000;
+  background: #fff url(images/signin.png) right center no-repeat;
+}
+
+.signin h1 {
+  color: darkred;
+}
+
+.yfrog {
+  color: #fff;
+  background: #000 url(images/yfrog.jpg) center center no-repeat;
+}
+
+.wefollow {
+  color: #fff;
+  background: #000 url(images/wefollow.jpg) center center no-repeat;
+}
+
+.spymaster {
+  color: #fff;
+  background: #000 url(images/spymaster.jpg) center center no-repeat;
+}
+
+.twitterauth {
+  color: #fff;
+  background: #000 url(images/twitterauth.jpg) center center no-repeat;
+}
+
+.twitterauth h1, .twitterauth h2, .twitterauth h3 {
+  color: #000;
+  background: yellow;
+}
+
+.railstemplate {
+  color: #fff;
+  background: #000 url(images/cupcakes.jpg) center center no-repeat;
+}
+
+.railstemplate h1, .railstemplate h2, .railstemplate h3 {
+  color: #000;
+  background: #ccccff;
+}
+
+.wtf {
+  color: #fff;
+  background: #000 url(images/cropcircles.jpg) 140% center no-repeat;
+}
+
+.thanks {
+  color: #fff;
+  background: #000 url(images/thanks.jpg) right top no-repeat;
+}
