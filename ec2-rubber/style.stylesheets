@@ -1,0 +1,247 @@
+body {
+  color: #00008B;
+  background: #fff;
+}
+
+a, a:visited, a:link {
+  color: #800080;
+  background: transparent;
+}
+
+.content * {
+  padding: 5px;
+  width: auto;
+  background: #fff;
+}
+
+.content em {
+  font-weight: bold;
+  color: darkred;
+}
+
+.content ul {
+  list-style-type: none;
+  background: transparent;
+}
+
+.content ul li {
+  background: transparent;
+}
+
+.content ul * li {
+  margin-left: 0.5em;
+}
+
+.content ul li:before{
+ content: "\00BB\ ";
+}
+
+.split ul {
+  background: transparent;
+  color: #fff;
+}
+
+.full ul {
+  background: #fff;
+}
+
+.intro {
+  background: #FFF url(images/clouds.jpg) center center no-repeat;
+}
+
+.history {
+  background: #FFF url(images/history.jpg) center center no-repeat;
+}
+
+.modern {
+  background: #EEE url(images/toilet.jpg) center center no-repeat;
+}
+
+.capistrano {
+  background: #272727 url(images/flower.jpg) right center no-repeat;
+  color: #fff;
+}
+
+.capistrano h1, .capistrano h2, .capistrano h3, .capistrano h4, .capistrano p {
+  margin-right: 562px;
+  background: #272727;
+  color: #fff;
+}
+
+.capsetup {
+  background: #FFF url(images/construction.jpg) center center no-repeat;
+}
+
+.capsetup ul {
+  color: #00008B;
+  background: #FFF;
+  font-weight: bold;
+}
+
+.capcode {
+  background: #272727 url(images/deploy-rb.jpg) right top no-repeat;
+}
+
+.capcode li {
+  color: #fff;
+  font-weight: bold;
+}
+
+.capcode h1, .capcode h2, .capcode h3, .capcode h4, .capcode p {
+  margin-right: 560px;
+  background: #272727;
+  color: #fff;
+}
+
+.palatable {
+  background: #272727 url(images/fruit.jpg) center center no-repeat;
+}
+
+.problems {
+  background: #272727 url(images/angry.jpg) right center no-repeat;
+}
+
+.problems h1, .problems h2, .problems h3, .problems h4, .problems p {
+  margin-right: 560px;
+  background: #272727;
+  color: #fff;
+}
+
+.cloud {
+  background: #FFF url(images/clouds.jpg) center center no-repeat;
+}
+
+.cloudissues {
+  background: #ccff00 url(images/lightening.jpg) right center no-repeat;
+  color: #272727;
+}
+
+.cloudissues ul {
+  color: #272727;
+}
+
+.cloudissues h1, .cloudissues h2, .cloudissues h3, .cloudissues h4, .cloudissues p {
+  margin-right: 442px;
+  background: #ccff00;
+  color: #272727;
+}
+
+.cloudinstances {
+  background: #FFF url(images/ec2-instances.png) center center no-repeat;
+}
+
+.scripting {
+  background: #FFF url(images/tools.jpg) center center no-repeat;
+}
+
+.scripting ul {
+  background: #FFF;
+}
+
+.rubber {
+  background: #272727 url(images/rubber.jpg) right center no-repeat;
+}
+
+.rubber li {
+  color: #fff;
+}
+
+.rubber h1, .rubber h2, .rubber h3, .rubber h4, .rubber p {
+  color: #fff;
+  background: #272727;
+  margin-right: 586px;
+}
+
+.rubbersetup {
+  background: orange url(images/download.jpg) right center no-repeat;
+}
+
+.rubbersetup li {
+  color: #272727;
+}
+
+.rubbersetup h1, .rubbersetup h2, .rubbersetup h3, .rubbersetup h4 {
+  color: #272727;
+  margin-right: 465px;
+  background: orange;
+}
+
+.vulcanize {
+  background: #272727 url(images/vulcan.jpg) right center no-repeat;
+}
+
+.vulcanize li {
+  color: #fff;
+}
+
+.vulcanize h1, .vulcanize h2, .vulcanize h3, .vulcanize h4 {
+  color: #fff;
+  background: #272727;
+  margin-right: 501px;
+}
+
+.staging {
+  background: #fff url(images/noodles.jpg) right bottom no-repeat;
+}
+
+.staging h1, .staging h2, .staging h3, .staging h4, .staging p {
+  background: darkred;
+  color: #fff;
+}
+
+.staging li {
+  color: darkred;
+}
+
+.staging h1, .staging h2, .staging h3, .staging h4, .staging p {
+  margin-right: 500px;
+}
+
+.railsenv {
+  background: #fff url(images/stage.jpg) center center no-repeat;
+}
+
+.rubberadmin {
+  background: #272727 url(images/cctv.jpg) right center no-repeat;
+}
+
+.rubberadmin h1, .rubberadmin h2, .rubberadmin h3, .rubberadmin h4, .rubberadmin p {
+  margin-right: 475px;
+  background: #272727;
+  color: #fff;
+}
+
+.scale {
+  background: #00008B url(images/gundam.jpg) right center no-repeat;
+}
+
+.scale h1, .scale h2, .scale h3, .scale h4, .scale p {
+  background: #00008B;
+  color: #fff;
+  margin-right: 434px;
+}
+
+.rubberconfig {
+  background: #000 url(images/fireworks.jpg) center center no-repeat;
+}
+
+.demo {
+  background: #ccff00;
+  color: #272727;
+}
+
+.demo h1, .demo h2, .demo h3, .demo h4, .demo p {
+  color: #ccff00;
+  background: #272727;
+}
+
+.thanks {
+  color: #fff;
+  background: #272727 url(images/thanks.jpg) right top no-repeat;
+}
+
+.thanks h1, .thanks h2, .thanks h3, .thanks h4, .thanks p {
+  margin-right: 600px;
+  background: #272727;
+  color: #fff;
+}
