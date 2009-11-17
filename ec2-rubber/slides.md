@@ -127,7 +127,7 @@ November 16, 2009
 !SLIDE railsenv full
 ### Use RAILS_ENV to support multiple staging instances
 <br/>
-* cp config/production.rb config/nick.rb
+* cp config/environments/production.rb config/environments/nick.rb
 * RUBBER_ENV=nick cap rubber:create_staging
 
 <br/>
